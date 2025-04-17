@@ -72,10 +72,13 @@ File	Description
 main.py	Core simulation and visualization logic
 README.md	This file
 requirements.txt (optional)	Add for easy pip install
-📸 Preview
 
-<img src="https://user-images.githubusercontent.com/example/tunnel-sim-preview.gif" width="600"/>
-📄 License
+# 📸 Preview
+
+<img src="https://github.com/user-attachments/assets/7db1d959-7c39-466f-aa0c-04ac5ff8a8c4" width="600"/>
+
+
+# 📄 License
 
 MIT License © 2024 Yotam Tsabari
 
