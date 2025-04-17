@@ -36,15 +36,17 @@ This project simulates a dynamic, queue-based packet network in a tunnel-like to
 ### 1. Install dependencies:
 ```bash
 pip install simpy networkx matplotlib pandas numpy
+```
 2. Run the simulation:
 You can run the simulation with:
-
+```bash
 python main.py
+```
 This will launch a real-time animation of packet flow across your simulated tunnel network.
 
 3. Optional: Enable other plots
 Uncomment any of the following lines at the bottom of main.py to enable static visualizations:
-
+```bash
 plot_topology(graph)
 plot_delay_distribution(packet_log)
 plot_throughput(stats_df)
